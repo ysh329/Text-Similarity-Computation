@@ -114,6 +114,7 @@ class GetTextDataFromDB(object):
         return title_list
 
 ################################### PART3 CLASS TEST ##################################
+"""
 # Initial parameters and construct variables.
 database_name = "essayDB"
 
@@ -129,3 +130,4 @@ logging.info("title_list[0]:%s" % title_list[0])
 logging.info("type(title_list[0]):%s" % type(title_list[0]))
 logging.info("len(title_list):%s" % len(title_list))
 logging.info("type(title_list):%s" % type(title_list))
+"""
